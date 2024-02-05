@@ -1,0 +1,29 @@
+git commands
+
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+
+git clone <repository-URL>
+
+
+
+# Pull, Add, Commit, and Push Changes
+Pull changes (to ensure your local repo is up to date):
+git pull origin main
+
+Add changes (stage your changes for commit):
+git add .
+or 
+git add filename
+or 
+git rm filename 
+
+
+Commit changes (save your staged changes with a message):
+git commit -m "A descriptive message about your changes"
+
+Push changes (upload your commits to GitHub):
+git push origin main
+
