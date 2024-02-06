@@ -1,6 +1,6 @@
 # SQL Exercise Comprehensive Review
 
-This document provides a comprehensive review of the SQL exercise we've worked through, covering the essential concepts and operations across **DDL (Data Definition Language)**, **DML (Data Manipulation Language)**, **DQL (Data Query Language)**, **DCL (Data Control Language)**, **TCL (Transaction Control Language)**, as well as advanced SQL features like joins, set operations, and aggregation functions. This review will include the structured queries and operations we discussed for a fictional company database scenario involving Employees and Departments.
+This document provides a comprehensive review of the SQL exercise I've worked through, covering the essential concepts and operations across **DDL (Data Definition Language)**, **DML (Data Manipulation Language)**, **DQL (Data Query Language)**, **DCL (Data Control Language)**, **TCL (Transaction Control Language)**, as well as advanced SQL features like joins, set operations, and aggregation functions. This review will include the structured queries and operations we discussed for a fictional company database scenario involving Employees and Departments.
 
 ## 1. Data Definition Language (DDL)
 
