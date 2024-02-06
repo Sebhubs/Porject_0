@@ -12,7 +12,7 @@ The `distribution_companies` table is designed to store information about movie 
 CREATE TABLE distribution_companies (
     id INT PRIMARY KEY,
     company_name VARCHAR(255) NOT NULL
-);
+); 
 ```
 
 ### Creating `movies` Table
@@ -109,3 +109,5 @@ SELECT movie_title, company_name FROM distribution_companies dc JOIN movies m ON
 ```
 
 These exercises are designed to provide hands-on experience with SQL, covering a range of operations from data definition and manipulation to complex queries and data analysis.
+   
+   
