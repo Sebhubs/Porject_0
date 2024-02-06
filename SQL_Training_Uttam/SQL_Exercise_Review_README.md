@@ -64,9 +64,11 @@ INSERT INTO Departments (DepartmentID, DepartmentName, Location) VALUES
 
 ```sql
 INSERT INTO Employees (EmployeeID, FirstName, LastName, BirthDate, DepartmentID, Salary, EmailAddress) VALUES
-(1, 'John', 'Doe', '1990-01-01', 1, 60000, 'johndoe@example.com'),
-(2, 'Jane', 'Smith', '1985-05-05', 2, 65000, 'janesmith@example.com'),
-(3, 'Mike', 'Johnson', '1978-07-07', 3, 70000, 'mikejohnson@example.com');
+(1, 'Assad', 'KomplecatedLastName', '1994-01-01', 1, 60000, 'assadkardanameh@example.com'),
+(2, 'Sanket', 'Smith', '1994-05-05', 2, 65000, 'sanket@example.com'),
+(3, 'Parvith', 'Johnson', '1994-07-07', 3, 70000, 'parvith@example.com'),
+(4, 'Elaheh', 'Wright', '1994-07-07', 3, 71000, 'elaheh@example.com'),
+(5, 'Anu', 'Tamila', '1994-07-07', 3, 71000, 'anu@example.com');
 ```
 
 ### Update Data
