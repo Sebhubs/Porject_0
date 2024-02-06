@@ -1,5 +1,5 @@
-# SQL Exercises Overview
-
+# SQL Exercises Overview _
+ 
 This document provides an overview and explanation of SQL exercises focused on creating tables, inserting data, and performing various queries to manipulate and retrieve data.
 
 ## Table Creation
